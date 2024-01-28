@@ -28,3 +28,4 @@ services:
       - .:/code
     working_dir: /code
     command: ./vendor/bin/phpunit
+ 
